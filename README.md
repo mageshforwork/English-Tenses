@@ -11,7 +11,7 @@ Variables:
 Tenses:
 	 <<--------
 	| PAST |
-	 -------->>	1. Simple:		--> ( (all) did. )
+	 -------->>	1. Simple:		--> ( (all) did. ) தமிழ்
 			2. Continuous:		--> ( (first) was doing. )
 						    ( (second) were doing. )
 			3. Perfect:		--> ( (all) had done. )
